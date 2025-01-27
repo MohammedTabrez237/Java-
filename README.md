@@ -1,2 +1,2 @@
-# js-code
-A js code repo
+# JAVA-code
+A JAVAcode repo
