@@ -70,7 +70,7 @@ public class linkedlist {
     }
 
     public static void main(String[] args) {
-        LinkedList list = new LinkedList();
+        linkedlist list = new linkedlist();
 
         list.insertAtEnd(10);
         list.insertAtEnd(20);

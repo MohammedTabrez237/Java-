@@ -1,4 +1,4 @@
-public class tohrec {
+public class towerofhanaoi {
 
 
     public static void TOH(int n,String src,String hlp,String des) {
